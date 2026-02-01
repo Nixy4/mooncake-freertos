@@ -1,0 +1,9 @@
+dependencies:
+  idf: '>=5.5.1'
+repository: https://github.com/Nixy4/mooncake-freertos
+url: https://github.com/Nixy4/mooncake-freertos
+description: mooncake的freertos版本
+version: 0.1.0
+targets:
+  - esp32s3
+  - esp32p4
